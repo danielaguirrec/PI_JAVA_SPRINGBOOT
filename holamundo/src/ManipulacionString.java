@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class ManipulacionString{
     public static void main(String[] args) throws Exception {
         //print("Hello, World!");

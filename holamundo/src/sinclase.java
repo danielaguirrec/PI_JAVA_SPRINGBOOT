@@ -4,3 +4,4 @@ public class sinclase{
         System.out.println("segunda impresion!");
     }
 }
+    
