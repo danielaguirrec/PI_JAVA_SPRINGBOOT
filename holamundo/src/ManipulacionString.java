@@ -1,4 +1,6 @@
+import java.util.Locale;
 import java.util.Scanner;
+import java.util.concurrent.Flow.Subscriber;
 public class ManipulacionString{
     public static void main(String[] args) throws Exception {
         //print("Hello, World!");
@@ -12,5 +14,8 @@ public class ManipulacionString{
         System.out.println("hla");
         //print(frase.substring(0,2));
 
+        nombre = "daniel";
+        int nombreLen = nombre.length();
+        System.out.println("la longitud de mi nombre es: " + nombreLen);
    }
 }
